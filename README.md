@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vibemarketolog.ru/images/mascots/cheshire-sdk.webp" alt="Вайб-Маркетолог" width="300">
+<img src="https://vibemarketolog.ru/images/sdk/profile-hero.webp" alt="Вайб-Маркетолог" width="300">
 
 # Вайб-Маркетолог
 

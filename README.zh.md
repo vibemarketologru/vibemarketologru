@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vibemarketolog.ru/images/mascots/cheshire-sdk.webp" alt="Vibe Marketolog" width="300">
+<img src="https://vibemarketolog.ru/images/sdk/hero.webp" alt="Vibe Marketolog" width="880">
 
 # Vibe Marketolog（氛围营销官）
 
