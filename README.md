@@ -71,3 +71,4 @@ Telegram: [@CentrMedia](https://telegram.me/CentrMedia) · Канал проек
 ---
 
 <sub>Встраивание платформы в свой продукт разрешено. Перепродажа доступа к API как самостоятельной услуги — нет; условия в разделах 19–20 <a href="https://lk.vibemarketolog.ru/terms">оферты</a>.</sub>
+
