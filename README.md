@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vibemarketolog.ru/images/sdk/profile-hero.webp" alt="Вайб-Маркетолог" width="300">
+<img src="https://vibemarketolog.ru/images/mascots/sdk-vibe.webp" alt="Вайб-Маркетолог" width="300">
 
 # Вайб-Маркетолог
 
@@ -21,6 +21,8 @@
 
 ## Что это
 
+<img align="right" width="190" src="https://vibemarketolog.ru/images/mascots/sdk-areas.webp" alt="Шесть направлений">
+
 Платформа закрывает полный маркетинговый цикл без монтажёра, дизайнера и подрядчика
 по трафику: собрать креатив, озвучить, смонтировать видео, написать текст, запустить
 и вести кампанию в Яндекс Директе. Всё, что доступно в личном кабинете, доступно и
@@ -36,6 +38,8 @@
 | Реклама | Яндекс Директ: кампании, объявления, минус-слова, отчёты, автопилот |
 
 ## Agent API — платформа как инструмент для вашего агента
+
+<img align="right" width="190" src="https://vibemarketolog.ru/images/mascots/sdk-api.webp" alt="Agent API">
 
 Публичное API, спроектированное так, чтобы ИИ-агент подключался к нему без человека:
 машинная схема, честная цена до списания, оплата за операцию.

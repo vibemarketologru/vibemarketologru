@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://vibemarketolog.ru/images/sdk/hero.webp" alt="Vibe Marketolog" width="880">
+<img src="https://vibemarketolog.ru/images/mascots/cheshire-sdk.webp" alt="Vibe Marketolog" width="300">
 
 # Vibe Marketolog
 
