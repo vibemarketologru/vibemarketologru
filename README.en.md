@@ -44,7 +44,7 @@ a 50/50 split, sends leads to Telegram and drafts Yandex Direct ads.
 <img align="right" width="180" src="assets/cheshire-sdk.webp" alt="Vibe Marketolog mascot">
 
 Paste the server address into ChatGPT settings (Plus, Pro, Business) or Claude (any plan,
-including free), and **75 tools** appear right in the chat: landing pages and A/B tests,
+including free), and **76 tools** appear right in the chat: landing pages and A/B tests,
 Yandex Wordstat, Metrika and Direct, images, video and Russian voice.
 
 ```text

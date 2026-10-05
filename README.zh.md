@@ -46,7 +46,7 @@ Yandex Direct 广告。
 <img align="right" width="180" src="assets/cheshire-sdk.webp" alt="Vibe Marketolog 吉祥物">
 
 在 ChatGPT（Plus、Pro、Business）或 Claude（任意套餐，包括免费版）的设置中填入服务器地址，
-平台的 **75 个工具**就会出现在聊天里：落地页与 A/B 测试、Yandex Wordstat、Metrika 与 Direct、
+平台的 **76 个工具**就会出现在聊天里：落地页与 A/B 测试、Yandex Wordstat、Metrika 与 Direct、
 图像、视频和俄语配音。
 
 ```text
